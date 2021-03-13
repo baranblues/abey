@@ -1,2 +1,2 @@
-# say-supervizor
-Davet Hesaplamalı  V12 Kayıt Botu | say.#1687 
+# abey-supervizor
+ V12 Kayıt Botu | 
